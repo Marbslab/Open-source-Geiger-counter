@@ -1,5 +1,5 @@
-V1: 1 x Geiger tube LND712 or ZP1400
-A1: 1 x Arduino Nano or clone
+V1: Geiger tube LND712 or ZP1400
+A1: Arduino Nano or clone
 Oled1: 128 x 32, I2C OLED (SSD1306 Driver)
 
 LS1: Piezo Buzzer 12 mm, THT, w/o electronics
@@ -11,8 +11,8 @@ SW2: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
 SW3: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
 SW4: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
 
-T1: TTC-105, Tamura, telecommuication coupling transformer
-L1: L-09HCP 33µ, high current inductor, THT, 7 mm pin scpacing
+T1: TTC-105, Tamura, telecommunication coupling transformer
+L1: L-09HCP 33µ, high current inductor, THT, 7 mm pin spacing
 
 D1: 1N4007, general purpose diode, 1000 V
 D2: 1N4007, general purpose diode, 1000 V
