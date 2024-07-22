@@ -1,0 +1,63 @@
+V1: 1 x Geiger tube LND712 or ZP1400
+A1: 1 x Arduino Nano or clone
+Oled1: 128 x 32, I2C OLED (SSD1306 Driver)
+
+LS1: Piezo Buzzer 12 mm, THT, w/o electronics
+J1: Barrel jack, THT
+
+
+SW1A: 3-pin slide switch, THT, 5 mm pin spacing
+SW2: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
+SW3: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
+SW4: CB CST35605T, 2-pin tactile push button, THT, 6.4 mm pin spacing
+
+T1: TTC-105, Tamura, telecommuication coupling transformer
+L1: L-09HCP 33µ, high current inductor, THT, 7 mm pin scpacing
+
+D1: 1N4007, general purpose diode, 1000 V
+D2: 1N4007, general purpose diode, 1000 V
+D3: 1N4007, general purpose diode, 1000 V
+D4: 1N4007, general purpose diode, 1000 V
+D5: SK 34A, Schottky diode, 40 V, 3 A, DO-214AC/SMA
+
+U1: LM2596DSADJ, step-down regulator, adj., 3 A, 4,75-40 Vi, D²Pak-5
+
+Q1: MMBT4403, SMD general purpose PNP transistor, SOT-23
+Q2: MMBTA42, SMD high voltage NPN transistor, SOT-23
+Q3: BC847, SMD general purpose NPN transistor, SOT-23
+Q4: BC847, SMD general purpose NPN transistor, SOT-23
+
+C1: SMD tantal capacitor, 10µF, case B
+C2: THT ceramic capacitor, 10nF/1000V
+C3: THT ceramic capacitor, 10nF/1000V
+C4: THT ceramic capacitor, 10nF/1000V
+C5: SMD multilayer ceramic capacitor, 47pF, 0805
+C6: SMD tantal capacitor, 4.7µF, case B
+C7: SMD tantal capacitor, 100µF, case D
+C8: SMD tantal capacitor, 220µF, case D
+
+R1: SMD resistor 1k, 0805
+R2: SMD resistor 1k, 0805
+R3: SMD resistor 100k, 0805
+R4: SMD resistor 150k, 0805
+R5: SMD resistor 1.8k, 0805
+R6: THT resistor 1M, 0.25W
+R7: THT resistor 10M, 0.25W
+R8: SMD resistor 1k, 0805
+R9: SMD resistor 10k, 0805
+R10: SMD resistor 3k, 0805
+R11: SMD resistor 1k, 0805
+R12: SMD resistor 10k, 0805
+R13: SMD resistor 10k, 0805
+R14: SMD resistor 10k, 0805
+R15: SMD resistor 10k, 0805
+R16: SMD resistor 10k, 0805
+R17: SMD resistor 2.2k, 0805
+
+
+
+
+
+
+
+
